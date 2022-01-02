@@ -8,8 +8,6 @@ description: "A little blurb of my doings." # This will show up in places like t
 #########################################################################################
 theme: "minima"
 
-rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
